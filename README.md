@@ -9,7 +9,7 @@
    <section id="sobre">
         <h2>Sobre Mim</h2>
         <p>Apaixonada por tecnologia e programação, sou estudante aprovada para Ciência da Computação na PUC-Rio, onde comecei a estudar em 2025. Concluí o Ensino Médio no colégio CPM em 2024, com destaque acadêmico e experiências marcantes que refletem minha dedicação e criatividade.</a></p> 
-        <p>Desde cedo, participei de projetos como robótica com LEGO e Scratch na escola, que despertaram minha paixão pela área. Estou aprendendo Python de forma autodidata e já tive contato com Java e HTML. Tenho um profundo desejo de impactar positivamente o mundo, não só o digital.</a></p> 
+        <p>Desde cedo, participei de projetos, como robótica com LEGO e Scratch na escola, que despertaram minha paixão pela área. Estou aprendendo Python de forma autodidata e já tive contato com Java e HTML. Tenho um profundo desejo de impactar positivamente o mundo, não só o digital.</a></p> 
         <p>Comprometida em usar minhas habilidades para construir um futuro mais justo e acessível para todos. Busco sempre o crescimento na área!</p>
     </section>
 
