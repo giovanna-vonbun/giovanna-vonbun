@@ -15,10 +15,7 @@
 
 <section id="projetos">
         <h2>Meus Projetos</h2>
-        <p>Participei do design de uma cartilha de conscientização sobre violência doméstica e de gênero, fazendo ilustrações.</p>
-        <a href="cartilha.pdf" download>Baixar a Cartilha</a>
-
-
+        <p>Participei do design de uma cartilha de conscientização sobre violência doméstica e de gênero, fazendo ilustrações.</p> <a href="cartilha.pdf" download>Baixar a Cartilha</a>
  <p>Já programei jogos com o scratch na escola e usei as plataformas da Genius Robotics para criar robôs funcionais com LEGO.</p>
     </section>
 
