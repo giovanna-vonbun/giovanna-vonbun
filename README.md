@@ -1,32 +1,28 @@
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+  width: 100%;
+ bottom: 0;
+  }
+ </style>
 </head>
 <body>
     <header>
         <h1>Meu Portfólio</h1>
-        <nav>
-            <a href="#sobre">Sobre Mim</a>
-            <a href="#projetos">Projetos</a>
-            <a href="#contato">Contato</a>
-        </nav>
-    </header>
+     
+ </header>
 
-    <section id="sobre">
+   <section id="sobre">
         <h2>Sobre Mim</h2>
         <p>Apaixonada por tecnologia e programação, sou estudante aprovada para Ciência da Computação na PUC-Rio, onde começarei a estudar em março. Concluí o Ensino Médio no colégio CPM em 2024, com destaque acadêmico e experiências marcantes que refletem minha dedicação e criatividade.</a></p> 
         <p>Desde cedo, participei de projetos como robótica com LEGO e Scratch na escola, que despertaram minha paixão pela área. Estou aprendendo Python de forma autodidata e já tive contato com Java e HTML. Tenho um profundo desejo de impactar positivamente o mundo, não só o digital.</a></p> 
         <p>Comprometida em usar minhas habilidades para construir um futuro mais justo e acessível para todos. Busco sempre o crescimento na área!</p>
     </section>
 
-    <section id="projetos">
+<section id="projetos">
         <h2>Meus Projetos</h2>
         <p>Participei do design de uma cartilha de conscientização sobre violência doméstica e de gênero, fazendo ilustrações.</p>
         <a href="cartilha.pdf" download>Baixar a Cartilha</a>
 
 
-        <p>Já programei jogos com o scratch na escola e usei as plataformas da Genius Robotics para criar robôs funcionais com LEGO.</p>
+ <p>Já programei jogos com o scratch na escola e usei as plataformas da Genius Robotics para criar robôs funcionais com LEGO.</p>
     </section>
 
  <section id="interesses">
