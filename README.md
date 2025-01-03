@@ -36,9 +36,7 @@ Também sou apaixonada por arte, o que me ajuda a ser mais criativa e detalhista
         <p> número: 22 992496556</a></p>
        <a href="https://linktr.ee/giovanna.vonbun">Minhas redes sociais</a>
 
-        <p>    a     </a></p>
-    </section>
-
+  </section>
     <footer>
         <p>© 2025 Giovanna Mury Vonbun</p>
     </footer>
