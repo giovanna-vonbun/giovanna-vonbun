@@ -37,7 +37,7 @@ Também sou apaixonada por arte, o que me ajuda a ser mais criativa e detalhista
 
   
   <section id="footer">
-        <p>© 2025 Giovanna Mury Vonbun</p>
+        <h2>© 2025 Giovanna Mury Vonbun</h2>
       </section>
 </body>
 </html>
