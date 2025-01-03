@@ -37,7 +37,8 @@ Também sou apaixonada por arte, o que me ajuda a ser mais criativa e detalhista
        <a href="https://linktr.ee/giovanna.vonbun">Minhas redes sociais</a>
 
   </section>
-    <footer>
+  
+  <footer>
         <p>© 2025 Giovanna Mury Vonbun</p>
     </footer>
 </body>
