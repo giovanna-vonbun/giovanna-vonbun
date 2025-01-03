@@ -30,7 +30,7 @@ Também sou apaixonada por arte, o que me ajuda a ser mais criativa e detalhista
     <section id="contato">
         <h2>Contato</h2>
         <p> e-mail: <a href="mailto:giomury@gmail.com">giomury@gmail.com</a></p>
-        <p> número: 22 992496556</a></p>
+        <p> número: (22) 992496556</a></p>
        <a href="https://linktr.ee/giovanna.vonbun">Minhas redes sociais</a>
 
   </section>
