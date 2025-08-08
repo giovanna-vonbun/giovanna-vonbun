@@ -8,8 +8,7 @@
 
    <section id="sobre">
         <h2>Sobre Mim</h2>
-        <p>Estudante de Ciência da Computação na PUC-Rio
-Sou estudante de Ciência da Computação na PUC-Rio, atualmente no segundo período. Já tive contato com Python em disciplinas da graduação, além de estar me aprofundando em lógica, estrutura de dados e fundamentos da programação.
+        <p>Sou estudante de Ciência da Computação na PUC-Rio, atualmente no segundo período. Já tive contato com Python em disciplinas da graduação, além de estar me aprofundando em lógica, estrutura de dados e fundamentos da programação.
 Minha paixão por tecnologia vem desde cedo, com experiências iniciais em robótica com LEGO e desenvolvimento com Scratch. Ao longo do tempo, também explorei linguagens como Java e HTML.
 Tenho um forte interesse em usar a tecnologia para gerar impacto positivo, promovendo soluções mais acessíveis, inclusivas e inovadoras. Estou sempre em busca de novos aprendizados e experiências práticas que me ajudem a crescer como desenvolvedora e como agente de transformação.</p>
     </section>
