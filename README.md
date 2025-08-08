@@ -59,7 +59,7 @@
     </section>
     <section id="contato">
         <h2>Contato</h2>
-        <p>Email: <a href="mailto:giomury@gmail.com">giomury@gmail.com</a></p>
+        <p>Email: <a href="mailto:giovanna.vonbun@gmail.com">giovanna.vonbun@gmail.com</a></p>
         <p>Telefone: (22) 99249-6556</p>
         <p><a href="https://linktr.ee/giovanna.vonbun" target="_blank">Minhas redes sociais</a></p>
     </section>
