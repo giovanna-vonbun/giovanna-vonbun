@@ -48,7 +48,7 @@
             Além disso, sou fascinada por novas tecnologias como inteligência artificial e machine learning, e adoro explorar novas formas de aplicá-las em projetos inovadores.
         </p>
         <p>
-            Também sou apaixonada por arte, o que me ajuda a ser mais criativa e detalhista em tudo o que faço — especialmente em design de interfaces e no desenvolvimento de jogos e aplicativos. Um dos meus hobbies é a montagem de PCs, o que me permite aprender mais sobre hardware e otimização de sistemas.
+            Também sou apaixonada por arte, o que me ajuda a ser mais criativa e detalhista em tudo o que faço, especialmente em design de interfaces e no desenvolvimento de jogos e aplicativos. Um dos meus hobbies é a montagem (e desmontagem) de PCs, o que me permite aprender mais sobre hardware e otimização de sistemas.
         </p>
         <p>
             Me interesso profundamente por impacto social. Acredito que a tecnologia tem o poder de transformar a sociedade, e quero trabalhar em projetos que abordem temas como meio ambiente, igualdade social e igualdade racial e de gênero.
