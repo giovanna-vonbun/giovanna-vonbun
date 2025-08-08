@@ -8,9 +8,10 @@
 
    <section id="sobre">
         <h2>Sobre Mim</h2>
-        <p>Apaixonada por tecnologia e programação, sou estudante de Ciência da Computação na PUC-Rio, onde comecei minha jornada acadêmica em março de 2025. Atualmente, no primeiro período, estou aprendendo Python como parte da minha formação, além de aprofundar meus conhecimentos em lógica e programação.</a></p> 
-        <p>Concluí o Ensino Médio no Colégio CPM em 2024, onde me destaquei academicamente. Minha paixão pela área vem desde cedo, quando participei de projetos de robótica com LEGO e desenvolvimento com Scratch.</a></p> 
-        <p>Além do Python, também já tive contato com Java e HTML. Tenho um forte desejo de usar a tecnologia para gerar impacto positivo, contribuindo para um futuro mais justo, acessível e inovador. Estou em constante busca por crescimento e desenvolvimento na área.</p>
+        <p>Estudante de Ciência da Computação na PUC-Rio
+Sou estudante de Ciência da Computação na PUC-Rio, atualmente no segundo período. Já tive contato com Python em disciplinas da graduação, além de estar me aprofundando em lógica, estrutura de dados e fundamentos da programação.
+Minha paixão por tecnologia vem desde cedo, com experiências iniciais em robótica com LEGO e desenvolvimento com Scratch. Ao longo do tempo, também explorei linguagens como Java e HTML.
+Tenho um forte interesse em usar a tecnologia para gerar impacto positivo, promovendo soluções mais acessíveis, inclusivas e inovadoras. Estou sempre em busca de novos aprendizados e experiências práticas que me ajudem a crescer como desenvolvedora e como agente de transformação.</p>
     </section>
 
 <section id="projetos">
