@@ -13,13 +13,13 @@
     <section id="sobre">
         <h2>Sobre Mim</h2>
         <p>
-            Sou estudante de Ciência da Computação na PUC-Rio, atualmente no segundo período. Já tive contato com Python em disciplinas da graduação, além de estar me aprofundando em lógica, estrutura de dados e fundamentos da programação.
-        </p>
-        <p>
-            Minha paixão por tecnologia vem desde cedo, com experiências iniciais em robótica com LEGO e desenvolvimento com Scratch. Ao longo do tempo, também explorei linguagens como Java e HTML.
-        </p>
-        <p>
-            Tenho um forte interesse em usar a tecnologia para gerar impacto positivo, promovendo soluções mais acessíveis, inclusivas e inovadoras. Estou sempre em busca de novos aprendizados e experiências práticas que me ajudem a crescer como desenvolvedora e como agente de transformação.
+            Giovanna Vonbun é estudante de Ciência da Computação na PUC-Rio, atualmente no segundo período, e estagiária de TI no LMMP/PUC-Rio. Já possui experiência com Python, tendo desenvolvido um jogo como parte de uma disciplina da graduação, e está atualmente aprendendo C, HTML e CSS.
+
+Durante o curso, já concluiu disciplinas de lógica, modelagem de dados e python, e vem se dedicando a projetos práticos que fortalecem suas habilidades em programação e desenvolvimento.
+
+Sua paixão por tecnologia começou cedo, com experiências em robótica com LEGO e desenvolvimento com Scratch. Ao longo do tempo, também explorou linguagens como Java e vem ampliando seus conhecimentos em diferentes áreas da computação.
+
+Giovanna tem grande interesse em usar a tecnologia para gerar impacto positivo, desenvolvendo soluções acessíveis, inclusivas e inovadoras. Está sempre em busca de novos aprendizados e experiências que contribuam para seu crescimento como desenvolvedora e como agente de transformação.
         </p>
     </section>
     <section id="projetos">
