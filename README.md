@@ -1,4 +1,4 @@
-# Oi, eu sou a Giovanna Vonbun
+# Sobre mim - Giovanna Vonbun
 
 🎓 Estudante de Ciência da Computação na PUC-Rio (3º período)  
 💻 Interessada em desenvolvimento web e games  
