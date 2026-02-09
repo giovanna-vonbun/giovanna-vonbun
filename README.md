@@ -68,7 +68,9 @@ Tenho interesse em integrar arte e programação, especialmente em projetos de j
 
 - Email: giovanna.vonbun@gmail.com  
 - GitHub: https://github.com/giovanna.vonbun  
-- Linktree: https://linktr.ee/giovanna.vonbun  
+- Linktree: https://linktr.ee/giovanna.vonbun
+- Instagram: @giovanna.vonbun
+- Instagram de desenho: @muryfoglia
 
 ---
 
