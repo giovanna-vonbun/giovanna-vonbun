@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a Giovanna Vonbun
+# Oi, eu sou a Giovanna Vonbun
 
 🎓 Estudante de Ciência da Computação na PUC-Rio (3º período)  
 💻 Interessada em desenvolvimento web e games  
@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 
 Sou estudante de Ciência da Computação com interesse em desenvolvimento de software e jogos.
 
@@ -19,7 +19,7 @@ Minha trajetória começou com robótica LEGO e Scratch, passando por Java e Pyt
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 - Python  
 - Django  
@@ -37,12 +37,12 @@ Idiomas:
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 🎮 Jogo em Python (Pygame)
+### Jogo em Python (Pygame)
 Projeto acadêmico em equipe com foco em lógica de programação e desenvolvimento de jogos 2D.
 
-### 🌐 Sistema Web em Django (NOP – PUC-Rio)
+### Sistema Web em Django (NOP – PUC-Rio)
 Aplicação desenvolvida em equipe para centralização de oportunidades universitárias.
 
 Minha participação incluiu:
@@ -56,7 +56,7 @@ https://github.com/udagla5/INF1039---25.2---Time-1
 
 ---
 
-## 🎨 Extra
+## Extra
 
 Também trabalho com ilustração digital e participei do projeto **Multiplicando Abraços (Tecle Mulher)**, criando artes para uma cartilha de conscientização sobre violência de gênero.
 
@@ -64,7 +64,7 @@ Tenho interesse em integrar arte e programação, especialmente em projetos de j
 
 ---
 
-## 📫 Contato
+## Contato
 
 - Email: giovanna.vonbun@gmail.com  
 - GitHub: https://github.com/giovanna.vonbun  
@@ -72,4 +72,6 @@ Tenho interesse em integrar arte e programação, especialmente em projetos de j
 
 ---
 
-⭐ Sempre aberta a aprender, colaborar e participar de projetos com impacto positivo.
+Sempre aberta a aprender, colaborar e participar de projetos com impacto positivo.
+
+© 2026 Giovanna Mury Vonbun
