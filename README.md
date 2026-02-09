@@ -15,7 +15,7 @@ Também atuei na organização de projetos em equipe usando Kanban e na prototip
 
 Tenho vivência em suporte técnico (Helpdesk), além de montagem e manutenção de PCs, periféricos e organização de documentação técnica.
 
-Minha trajetória começou com robótica LEGO e Scratch, passando por Java e Python. Busco unir programação e criatividade, com foco futuro em game development.
+Minha trajetória começou com robótica LEGO e Scratch, passando por Java e Python. Busco unir programação e criatividade, com foco futuro em game development e segurança da informação.
 
 ---
 
