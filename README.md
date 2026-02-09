@@ -1,110 +1,75 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio – Giovanna Vonbun</title>
-</head>
+# 👋 Oi, eu sou a Giovanna Vonbun
 
-<body>
-<header>
-    <h1>Giovanna Vonbun</h1>
-    <p>Estudante de Ciência da Computação | Desenvolvimento Web & Games</p>
-</header>
+🎓 Estudante de Ciência da Computação na PUC-Rio (3º período)  
+💻 Interessada em desenvolvimento web e games  
+🛠️ Experiência em Python, Django e Pygame  
 
-<section id="sobre">
-    <h2>Sobre Mim</h2>
+---
 
-    <p>
-        Sou estudante de Ciência da Computação na PUC-Rio (3º período), com interesse em desenvolvimento de software e jogos.
-        Tenho experiência com Python, Django e desenvolvimento de jogos 2D com Pygame, além de atuação em suporte técnico (Helpdesk).
-    </p>
+## ✨ Sobre mim
 
-    <p>
-        Participei de projetos acadêmicos em equipe envolvendo aplicações web, onde atuei no backend, organização de tarefas com Kanban
-        e prototipação de interfaces no Figma.
-    </p>
+Sou estudante de Ciência da Computação com interesse em desenvolvimento de software e jogos.
 
-    <p>
-        Também tenho vivência prática com montagem e manutenção de computadores, periféricos e nobreaks, além de organização de planilhas
-        e documentação técnica.
-    </p>
+Já participei de projetos acadêmicos envolvendo aplicações web em Django e desenvolvimento de jogos 2D com Pygame.  
+Também atuei na organização de projetos em equipe usando Kanban e na prototipação de interfaces com Figma.
 
-    <p>
-        Minha paixão por tecnologia começou cedo, com robótica LEGO e Scratch, passando depois por linguagens como Java e Python.
-        Busco unir programação e criatividade — especialmente com foco futuro em desenvolvimento de jogos.
-    </p>
-</section>
+Tenho vivência em suporte técnico (Helpdesk), além de montagem e manutenção de PCs, periféricos e organização de documentação técnica.
 
-<section id="habilidades">
-    <h2>Habilidades</h2>
+Minha trajetória começou com robótica LEGO e Scratch, passando por Java e Python. Busco unir programação e criatividade, com foco futuro em game development.
 
-    <ul>
-        <li>Python / Django</li>
-        <li>HTML / CSS</li>
-        <li>Desenvolvimento de jogos com Pygame</li>
-        <li>Figma (prototipação de interfaces)</li>
-        <li>Kanban e organização de projetos</li>
-        <li>Git / GitHub</li>
-        <li>Helpdesk e suporte técnico</li>
-        <li>Montagem e manutenção de PCs e periféricos</li>
-        <li>Google Apps Script</li>
-        <li>Pacote Office</li>
-        <li>Inglês fluente | Alemão básico</li>
-    </ul>
-</section>
+---
 
-<section id="projetos">
-    <h2>Projetos</h2>
+## 🧠 Tecnologias & Ferramentas
 
-    <ul>
-        <li>
-            🎮 Jogo desenvolvido em Python utilizando Pygame (projeto acadêmico em equipe).
-        </li>
+- Python  
+- Django  
+- HTML / CSS  
+- Pygame  
+- Git / GitHub  
+- Figma  
+- Kanban  
+- Google Apps Script  
+- Pacote Office  
 
-        <li>
-            🌐 Projeto web em Django para centralização de oportunidades universitárias (INF1039 – PUC-Rio),
-            com participação no backend, organização do Kanban e prototipação no Figma.
-        </li>
+Idiomas:
+- Inglês fluente  
+- Alemão básico  
 
-        <li>
-            🎨 Participação no design de uma
-            <a href="cartilha.pdf" download>cartilha</a> de conscientização sobre violência doméstica e de gênero,
-            realizando ilustrações (Projeto Multiplicando Abraços – Tecle Mulher).
-        </li>
+---
 
-        <li>
-            🤖 Curso de robótica com LEGO (Genius Robotics).
-        </li>
-    </ul>
-</section>
+## 🚀 Projetos
 
-<section id="interesses">
-    <h2>Interesses</h2>
+### 🎮 Jogo em Python (Pygame)
+Projeto acadêmico em equipe com foco em lógica de programação e desenvolvimento de jogos 2D.
 
-    <p>
-        Tenho grande interesse em desenvolvimento de software, jogos e tecnologia com impacto social.
-        Gosto especialmente de unir programação, arte e design de interfaces.
-    </p>
+### 🌐 Sistema Web em Django (NOP – PUC-Rio)
+Aplicação desenvolvida em equipe para centralização de oportunidades universitárias.
 
-    <p>
-        Também me interesso por inteligência artificial, machine learning e segurança digital.
-        Acredito no poder da tecnologia como ferramenta de transformação social.
-    </p>
-</section>
+Minha participação incluiu:
+- Backend em Django  
+- Organização de tarefas com Kanban  
+- Prototipação no Figma  
+- Apoio na modelagem da aplicação  
 
-<section id="contato">
-    <h2>Contato</h2>
+Repositório original do projeto:
+https://github.com/udagla5/INF1039---25.2---Time-1
 
-    <p>Email: <a href="mailto:giovanna.vonbun@gmail.com">giovanna.vonbun@gmail.com</a></p>
-    <p>Telefone: (22) 99249-6556</p>
-    <p>GitHub: <a href="https://github.com/giovanna.vonbun" target="_blank">github.com/giovanna.vonbun</a></p>
-    <p><a href="https://linktr.ee/giovanna.vonbun" target="_blank">Linktree / Redes sociais</a></p>
-</section>
+---
 
-<footer>
-    <p>© 2026 Giovanna Mury Vonbun</p>
-</footer>
+## 🎨 Extra
 
-</body>
-</html>
+Também trabalho com ilustração digital e participei do projeto **Multiplicando Abraços (Tecle Mulher)**, criando artes para uma cartilha de conscientização sobre violência de gênero.
+
+Tenho interesse em integrar arte e programação, especialmente em projetos de jogos.
+
+---
+
+## 📫 Contato
+
+- Email: giovanna.vonbun@gmail.com  
+- GitHub: https://github.com/giovanna.vonbun  
+- Linktree: https://linktr.ee/giovanna.vonbun  
+
+---
+
+⭐ Sempre aberta a aprender, colaborar e participar de projetos com impacto positivo.
