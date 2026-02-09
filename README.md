@@ -2,7 +2,6 @@
 
 🎓 Estudante de Ciência da Computação na PUC-Rio (3º período)  
 💻 Interessada em desenvolvimento web, games e cybersegurança
-
 🛠️ Experiência em Python, Django e Pygame  
 
 ---
