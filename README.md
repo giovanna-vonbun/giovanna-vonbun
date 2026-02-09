@@ -1,70 +1,110 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>Portfólio – Giovanna Vonbun</title>
 </head>
+
 <body>
-    <header>
-        <h1>Meu Portfólio</h1>
-    </header>
-    <section id="sobre">
-        <h2>Sobre Mim</h2>
-        <p>
-            Giovanna Vonbun é estudante de Ciência da Computação na PUC-Rio, atualmente no segundo período, e estagiária de TI no LMMP/PUC-Rio. Já possui experiência com Python, tendo desenvolvido um jogo como parte de uma disciplina da graduação, e está atualmente aprendendo C, HTML e CSS.
+<header>
+    <h1>Giovanna Vonbun</h1>
+    <p>Estudante de Ciência da Computação | Desenvolvimento Web & Games</p>
+</header>
 
-Durante o curso, já concluiu disciplinas de lógica, modelagem de dados e python, e vem se dedicando a projetos práticos que fortalecem suas habilidades em programação e desenvolvimento.
+<section id="sobre">
+    <h2>Sobre Mim</h2>
 
-Sua paixão por tecnologia começou cedo, com experiências em robótica com LEGO e desenvolvimento com Scratch. Ao longo do tempo, também explorou linguagens como Java e vem ampliando seus conhecimentos em diferentes áreas da computação.
+    <p>
+        Sou estudante de Ciência da Computação na PUC-Rio (3º período), com interesse em desenvolvimento de software e jogos.
+        Tenho experiência com Python, Django e desenvolvimento de jogos 2D com Pygame, além de atuação em suporte técnico (Helpdesk).
+    </p>
 
-Giovanna tem grande interesse em usar a tecnologia para gerar impacto positivo, desenvolvendo soluções acessíveis, inclusivas e inovadoras. Está sempre em busca de novos aprendizados e experiências que contribuam para seu crescimento como desenvolvedora e como agente de transformação.
-        </p>
-    </section>
-    <section id="projetos">
-        <h2>Meus Projetos</h2>
-        <ul>
-            <li>
-                Participei do design de uma <a href="cartilha.pdf" download>cartilha</a> de conscientização sobre violência doméstica e de gênero, fazendo ilustrações.
-            </li>
-            <li>
-                Já programei jogos com o Scratch na escola.
-            </li>
-            <li>
-                Utilizei as plataformas da Genius Robotics para criar robôs funcionais com LEGO.
-            </li>
-            <li>
-                Desenvolvi um jogo em Python com colegas da faculdade, utilizando a biblioteca Pygame.
-            </li>
-        </ul>
-    </section>
-    <section id="interesses">
-        <h2>Interesses na Área</h2>
-        <p>
-            Tenho grande interesse pelo mundo digital, especialmente nas áreas de segurança cibernética e desenvolvimento de jogos. Estou sempre buscando maneiras de melhorar o ambiente digital, garantindo que ele seja mais seguro para todos.
-        </p>
-        <p>
-            Além disso, sou fascinada por novas tecnologias como inteligência artificial e machine learning, e adoro explorar novas formas de aplicá-las em projetos inovadores.
-        </p>
-        <p>
-            Também sou apaixonada por arte, o que me ajuda a ser mais criativa e detalhista em tudo o que faço, especialmente em design de interfaces e no desenvolvimento de jogos e aplicativos. Um dos meus hobbies é a montagem (e desmontagem) de PCs, o que me permite aprender mais sobre hardware e otimização de sistemas.
-        </p>
-        <p>
-            Me interesso profundamente por impacto social. Acredito que a tecnologia tem o poder de transformar a sociedade, e quero trabalhar em projetos que abordem temas como meio ambiente, igualdade social e igualdade racial e de gênero.
-        </p>
-        <p>
-            Adoro desafios criativos e estou sempre procurando oportunidades para aprender e me aprimorar em desenvolvimento de sites e aplicativos.
-        </p>
-    </section>
-    <section id="contato">
-        <h2>Contato</h2>
-        <p>Email: <a href="mailto:giovanna.vonbun@gmail.com">giovanna.vonbun@gmail.com</a></p>
-        <p>Telefone: (22) 99249-6556</p>
-        <p><a href="https://linktr.ee/giovanna.vonbun" target="_blank">Minhas redes sociais</a></p>
-    </section>
-    <footer>
-        <p>© 2025 Giovanna Mury Vonbun</p>
-    </footer>
+    <p>
+        Participei de projetos acadêmicos em equipe envolvendo aplicações web, onde atuei no backend, organização de tarefas com Kanban
+        e prototipação de interfaces no Figma.
+    </p>
+
+    <p>
+        Também tenho vivência prática com montagem e manutenção de computadores, periféricos e nobreaks, além de organização de planilhas
+        e documentação técnica.
+    </p>
+
+    <p>
+        Minha paixão por tecnologia começou cedo, com robótica LEGO e Scratch, passando depois por linguagens como Java e Python.
+        Busco unir programação e criatividade — especialmente com foco futuro em desenvolvimento de jogos.
+    </p>
+</section>
+
+<section id="habilidades">
+    <h2>Habilidades</h2>
+
+    <ul>
+        <li>Python / Django</li>
+        <li>HTML / CSS</li>
+        <li>Desenvolvimento de jogos com Pygame</li>
+        <li>Figma (prototipação de interfaces)</li>
+        <li>Kanban e organização de projetos</li>
+        <li>Git / GitHub</li>
+        <li>Helpdesk e suporte técnico</li>
+        <li>Montagem e manutenção de PCs e periféricos</li>
+        <li>Google Apps Script</li>
+        <li>Pacote Office</li>
+        <li>Inglês fluente | Alemão básico</li>
+    </ul>
+</section>
+
+<section id="projetos">
+    <h2>Projetos</h2>
+
+    <ul>
+        <li>
+            🎮 Jogo desenvolvido em Python utilizando Pygame (projeto acadêmico em equipe).
+        </li>
+
+        <li>
+            🌐 Projeto web em Django para centralização de oportunidades universitárias (INF1039 – PUC-Rio),
+            com participação no backend, organização do Kanban e prototipação no Figma.
+        </li>
+
+        <li>
+            🎨 Participação no design de uma
+            <a href="cartilha.pdf" download>cartilha</a> de conscientização sobre violência doméstica e de gênero,
+            realizando ilustrações (Projeto Multiplicando Abraços – Tecle Mulher).
+        </li>
+
+        <li>
+            🤖 Curso de robótica com LEGO (Genius Robotics).
+        </li>
+    </ul>
+</section>
+
+<section id="interesses">
+    <h2>Interesses</h2>
+
+    <p>
+        Tenho grande interesse em desenvolvimento de software, jogos e tecnologia com impacto social.
+        Gosto especialmente de unir programação, arte e design de interfaces.
+    </p>
+
+    <p>
+        Também me interesso por inteligência artificial, machine learning e segurança digital.
+        Acredito no poder da tecnologia como ferramenta de transformação social.
+    </p>
+</section>
+
+<section id="contato">
+    <h2>Contato</h2>
+
+    <p>Email: <a href="mailto:giovanna.vonbun@gmail.com">giovanna.vonbun@gmail.com</a></p>
+    <p>Telefone: (22) 99249-6556</p>
+    <p>GitHub: <a href="https://github.com/giovanna.vonbun" target="_blank">github.com/giovanna.vonbun</a></p>
+    <p><a href="https://linktr.ee/giovanna.vonbun" target="_blank">Linktree / Redes sociais</a></p>
+</section>
+
+<footer>
+    <p>© 2026 Giovanna Mury Vonbun</p>
+</footer>
+
 </body>
 </html>
