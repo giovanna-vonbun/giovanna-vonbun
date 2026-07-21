@@ -1,5 +1,5 @@
 <div align="center">
-# ೀ⋆｡˚ Giovanna Vonbun ˚｡⋆ ೀ
+# ೀ⋆｡˚ Giovanna Mury Vonbun ˚｡⋆ ೀ
  
 *estudante de Ciência da Computação · PUC-Rio*
  
