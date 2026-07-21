@@ -4,7 +4,6 @@
 *estudante de Ciência da Computação · PUC-Rio*
  
 </div>
----
  
 ### ⋆｡˚ sobre mim ˚｡⋆
  
@@ -15,8 +14,7 @@ Minha experiência técnica engloba desenvolvimento de software e web utilizando
 Conciliando lógica e criatividade, atuo como Artista no **ICAD Games Lab**, onde sou responsável pela criação de personagens, ilustrações digitais e apoio geral na produção visual de jogos. Essa interseção única entre tecnologia de baixo nível e arte digital me permite transitar com facilidade entre o desenvolvimento lógico e a experiência do usuário.
  
 Busco constantemente aprender e colaborar em projetos com foco especial em **Sistemas Operacionais**, **Segurança da Informação** e **Game Dev**. ✧
- 
----
+
  
 ### ⋆｡˚ tech stack ˚｡⋆
  
@@ -31,7 +29,6 @@ Busco constantemente aprender e colaborar em projetos com foco especial em **Sis
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanna.vonbun&layout=compact&theme=radical&hide_border=true)
  
 </div>
----
  
 ### ⋆｡˚ projetos ˚｡⋆
  
@@ -49,7 +46,6 @@ Aplicação em equipe para centralização de oportunidades universitárias. Min
 **Multiplicando Abraços (Tecle Mulher)**
 Ilustrações para uma cartilha de conscientização sobre violência de gênero, unindo arte digital a uma causa social. ♡
  
----
  
 ### ⋆｡˚ contato ˚｡⋆
  
@@ -61,7 +57,6 @@ instagram · [@giovanna.vonbun](https://instagram.com/giovanna.vonbun)
 instagram de desenho · [@muryfoglia](https://instagram.com/muryfoglia)
  
 </div>
----
  
 <div align="center">
 *sempre aberta a aprender, colaborar e participar de projetos com impacto positivo* ⋆｡˚✧
