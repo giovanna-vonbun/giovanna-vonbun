@@ -4,7 +4,8 @@
 *estudante de Ciência da Computação · PUC-Rio*
  
 </div>
- 
+---
+
 ### ⋆｡˚ sobre mim ˚｡⋆
  
 Estudante de Ciência da Computação na PUC-Rio (4º período), com uma trajetória que une forte base técnica em sistemas e paixão pela criação visual. Buscando uma formação interdisciplinar e robusta, realizo atualmente dois domínios adicionais: **Construção de Software** e **Animação**.
@@ -15,7 +16,8 @@ Conciliando lógica e criatividade, atuo como Artista no **ICAD Games Lab**, ond
  
 Busco constantemente aprender e colaborar em projetos com foco especial em **Sistemas Operacionais**, **Segurança da Informação** e **Game Dev**. ✧
 
- 
+---
+
 ### ⋆｡˚ tech stack ˚｡⋆
 
 <div align="center">
@@ -35,7 +37,8 @@ Busco constantemente aprender e colaborar em projetos com foco especial em **Sis
 **idiomas:** Inglês Fluente ﹒Alemão Básico
 
 </div>
- 
+---
+
 ### ⋆｡˚ projetos ˚｡⋆
  
 **UaiFO — Tower Defense**
@@ -51,7 +54,9 @@ Aplicação em equipe para centralização de oportunidades universitárias. Min
  
 **Multiplicando Abraços (Tecle Mulher)**
 Ilustrações para uma cartilha de conscientização sobre violência de gênero, unindo arte digital a uma causa social. ♡
- 
+
+
+---
  
 ### ⋆｡˚ contato ˚｡⋆
 <div align="center">
@@ -68,7 +73,7 @@ Ilustrações para uma cartilha de conscientização sobre violência de gênero
 *sempre aberta a aprender, colaborar e participar de projetos com impacto positivo* ⋆｡˚✧
 </div>
  
-
+---
 <div align="center">
 
 
