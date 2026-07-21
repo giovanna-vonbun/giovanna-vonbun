@@ -42,21 +42,29 @@ Busco constantemente aprender e colaborar em projetos com foco especial em **Sis
 </div>
 
 ### ⋆｡˚ projetos ˚｡⋆
+<div align="center">
  
 **UaiFO · Tower Defense**
+
 Tower defense mineiro desenvolvido em Godot (GDScript) para a matéria INF1307, com arte e cenários próprios.
+
 🔗 [github.com/udagla5/UaiFO](https://github.com/udagla5/UaiFO)
  
 **Jogo em Python · Iced Alienz (Pygame)**
+
 Projeto acadêmico em equipe com foco em lógica de programação e desenvolvimento de jogos 2D.
  
 **Sistema Web em Django · NOP (PUC-Rio)**
+
 Aplicação em equipe para centralização de oportunidades universitárias. Minha parte: backend em Django, organização com Kanban, prototipação no Figma e apoio na modelagem.
+
 🔗 [github.com/udagla5/INF1039---25.2---Time-1](https://github.com/udagla5/INF1039---25.2---Time-1)
  
 **Multiplicando Abraços (Tecle Mulher)**
+
 Ilustrações para uma cartilha de conscientização sobre violência de gênero, unindo arte digital a uma causa social. ♡
 
+</div>
 
 ---
  
