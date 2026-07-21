@@ -16,8 +16,9 @@ Minha experiência técnica engloba desenvolvimento de software e web utilizando
 Conciliando lógica e criatividade, atuo como Artista no **ICAD Games Lab**, onde sou responsável pela criação de personagens, ilustrações digitais e apoio geral na produção visual de jogos. Essa interseção única entre tecnologia de baixo nível e arte digital me permite transitar com facilidade entre o desenvolvimento lógico e a experiência do usuário.
  
 Busco constantemente aprender e colaborar em projetos com foco especial em **Sistemas Operacionais**, **Segurança da Informação** e **Game Dev**. ✧
-</div>
+
 ---
+</div>
 
 ### ⋆｡˚ tech stack ˚｡⋆
 
