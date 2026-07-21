@@ -66,7 +66,7 @@ Ilustrações para uma cartilha de conscientização sobre violência de gênero
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanna.vonbun@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovanna.vonbun)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/giovanna.vonbun)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giovanna.vonbun)
+[![Instagram](https://img.shields.io/badge/@giovanna.vonbun-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giovanna.vonbun)
 [![Instagram Desenho](https://img.shields.io/badge/@muryfoglia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muryfoglia)
 ---
 
