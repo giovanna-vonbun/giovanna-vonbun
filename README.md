@@ -66,7 +66,11 @@ Ilustrações para uma cartilha de conscientização sobre violência de gênero
  
 <div align="center">
 *sempre aberta a aprender, colaborar e participar de projetos com impacto positivo* ⋆｡˚✧
+</div>
  
+
+<div align="center">
+
 © 2026 Giovanna Mury Vonbun
- 
+
 </div>
