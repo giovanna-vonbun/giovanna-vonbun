@@ -2,9 +2,9 @@
 # ೀ⋆｡˚ Giovanna Mury Vonbun ˚｡⋆ ೀ
  
 *estudante de Ciência da Computação · PUC-Rio*
- 
-</div>
 ---
+</div>
+
 
 ### ⋆｡˚ sobre mim ˚｡⋆
 <div align="center">
@@ -37,9 +37,9 @@ Busco constantemente aprender e colaborar em projetos com foco especial em **Sis
 **foco artístico:** Ilustração Digital · Character Design · Concept Art
  
 **idiomas:** Inglês Fluente ﹒Alemão Básico
+---
 
 </div>
----
 
 ### ⋆｡˚ projetos ˚｡⋆
  
@@ -68,7 +68,8 @@ Ilustrações para uma cartilha de conscientização sobre violência de gênero
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/giovanna.vonbun)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giovanna.vonbun)
 [![Instagram Desenho](https://img.shields.io/badge/@muryfoglia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muryfoglia)
- 
+---
+
 </div>
  
 <div align="center">
