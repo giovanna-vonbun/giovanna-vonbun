@@ -42,7 +42,7 @@ Busco constantemente aprender e colaborar em projetos com foco especial em **Sis
 </div>
 
 ### ⋆｡˚ projetos ˚｡⋆
-<div align="center">
+<div>
  
 **UaiFO · Tower Defense**
 
