@@ -17,6 +17,8 @@ Busco constantemente aprender e colaborar em projetos com foco especial em **Sis
 
  
 ### ⋆｡˚ tech stack ˚｡⋆
+
+<div align="center">
  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,8 +33,6 @@ Busco constantemente aprender e colaborar em projetos com foco especial em **Sis
 **foco artístico:** Ilustração Digital · Character Design · Concept Art
  
 **idiomas:** Inglês Fluente ﹒Alemão Básico
- 
-<div align="center">
 
 </div>
  
